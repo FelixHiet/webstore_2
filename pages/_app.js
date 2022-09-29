@@ -1,7 +1,16 @@
-import '../styles/globals.css'
+import "../styles/globals.css";
+import { Layout } from "../components";
+import { StateContext } from "../context/StateContext";
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  return (
+    <StateContext>
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
+    </StateContext>
+  );
 }
 
-export default MyApp
+export default MyApp;
+// passing everything from StateContext to MyApp

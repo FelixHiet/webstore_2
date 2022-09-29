@@ -11,12 +11,17 @@ const Home = ({ products, bannerData }) => {
         <h2>Best selling products</h2>
         <p>Gaming products of many variations</p>
       </div>
-      <div className="products-container">{products?.map((product) => product.name)}</div>
-      <FooterBanner />
+      <div className="products-container">
+        {products?.map((product) => (
+          <Product key={product._id} product={product} />
+        ))}
+      </div>
+      <FooterBanner footerBanner={bannerData && bannerData[0]} />
     </>
   );
 };
 
+//function below fetches props from the server side aka sanity
 export const getServerSideProps = async () => {
   const query = '*[_type == "product"]';
   const products = await client.fetch(query);
@@ -31,4 +36,6 @@ export const getServerSideProps = async () => {
 
 export default Home;
 
-// 54:13
+// 1:35:00
+// cd webstore 2 => cd sanity webstore 2 => sanity manage and sanity start
+// nextjs => cd webstore 2 => npm run dev
