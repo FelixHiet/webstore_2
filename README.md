@@ -2,6 +2,8 @@
 This project uses NextJS and Sanity(backend).
 <br>
 <br>
+![demo1](https://user-images.githubusercontent.com/49163212/193785158-552bc92f-8045-4682-9dbb-9dd36ba56955.jpg)
+
 #
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
