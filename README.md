@@ -3,11 +3,11 @@ This project uses NextJS and Sanity(backend). Stripe test payments fully working
 <br>
 <br>
 ![demo1](https://user-images.githubusercontent.com/49163212/193785158-552bc92f-8045-4682-9dbb-9dd36ba56955.jpg)
-Demo 1.
+Demo 1 - Homepage.
 <br>
 <br>
 ![demo2](https://user-images.githubusercontent.com/49163212/193785602-e5ef3f95-27dd-46d2-9476-87ec30449adf.jpg)
-Demo 2.
+Demo 2 - Clicking a product.
 <br>
 <br>
 ![demo3](https://user-images.githubusercontent.com/49163212/193785614-ca14038b-74fc-4532-990e-51989cf904fb.jpg)
