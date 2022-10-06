@@ -11,7 +11,7 @@ Demo 2.
 <br>
 <br>
 ![demo3](https://user-images.githubusercontent.com/49163212/193785614-ca14038b-74fc-4532-990e-51989cf904fb.jpg)
-Demo 3.
+Demo 3 - If your cart is empty.
 <br>
 <br>
 ![demo4](https://user-images.githubusercontent.com/49163212/194328957-8638e6dc-a614-491e-9757-6056ec36f88e.jpg)
