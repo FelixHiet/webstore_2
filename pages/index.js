@@ -36,6 +36,6 @@ export const getServerSideProps = async () => {
 
 export default Home;
 
-// 2:31:00
+// 3:07:00
 // cd webstore 2 => cd sanity webstore 2 => sanity manage and sanity start
 // nextjs => cd webstore 2 => npm run dev

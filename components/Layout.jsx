@@ -4,11 +4,11 @@ import Head from "next/head";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 
-const Layout = ({ children}) => {
+const Layout = ({ children }) => {
   return (
     <div className="layout">
       <Head>
-        <title>Webstore</title>
+        <title>Webstore 2.0</title>
       </Head>
       <header>
         <Navbar />
