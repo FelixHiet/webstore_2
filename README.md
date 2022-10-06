@@ -19,15 +19,15 @@ Demo 4 - Product added to the cart.
 <br>
 <br>
 ![demo5](https://user-images.githubusercontent.com/49163212/194328968-2ae9486c-5db2-42bd-b985-b7e62e201ea7.jpg)
-Demo 5 - .
+Demo 5 - Stripe payment window.
 <br>
 <br>
 ![demo6](https://user-images.githubusercontent.com/49163212/194328977-b00db52d-3567-4076-a96b-a6b0695d48c2.jpg)
-Demo 6 - .
+Demo 6 - Stripe payment succesful.
 <br>
 <br>
 ![demo7](https://user-images.githubusercontent.com/49163212/194328994-f24e36b2-0870-419f-bf47-7bd647939ad5.jpg)
-Demo 7 - .
+Demo 7 - Test payments.
 <br>
 <br>
 
