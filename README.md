@@ -1,4 +1,4 @@
-# Webstore 2
+# Webstore 2.0
 This project uses NextJS and Sanity(backend). Stripe test payments fully working!
 <br>
 <br>
